@@ -1,0 +1,12 @@
+#Jonas Brian R. Macacua                   Assignment no 1
+#BSCOE 2-2                                October 22, 2022
+
+print("      *   * * * *")
+print("      *   *      *")
+print("      *   *      *")
+print("      *   * * * * ")
+print("      *   *      * ")
+print("*     *   *       *")
+print("*     *   *       *")
+print("*     *   *      * ")
+print("* * * *   * * * * ")
